@@ -1,2 +1,2 @@
 # Projeto-Integrador
-Desenvolvimento e documentação do Projeto Integrador(API), reunindo as etapas, atividades e resultados realizados pela equipe.
+O objetivo deste trabalho é analisar e organizar dados públicos sobre a economia regional de São José dos Campos, criando um painel interativo no Power BI. A solução permite visualizar a distribuição geográfica das empresas e o perfil dos setores produtivos (como aeroespacial, automotivo, químico e serviços), gerando informações para apoiar a tomada de decisões na gestão pública.
