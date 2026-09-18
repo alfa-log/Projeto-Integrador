@@ -37,3 +37,7 @@ GESTÃO DO PROJETO
 
 * [📄 Acesse aqui o Backlog do Produto](./BACKLOG.md)
 
+BANCOS DE DADOS TRATADOS
+Nesta etapa, apresentamos a base de dados utilizada como apoio para o desenvolvimento do projeto e realização da análises
+<img width="1893" height="873" alt="image" src="https://github.com/user-attachments/assets/8ac16947-da9d-4f7b-b1ce-3e95a117b95d" />
+
