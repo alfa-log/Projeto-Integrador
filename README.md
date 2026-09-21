@@ -1,13 +1,13 @@
-# Projeto-Integrador
-Mapeamento do Ecossistema Industrial e de Serviços de São José dos Campos
+## Projeto-Integrador
+## Mapeamento do Ecossistema Industrial e de Serviços de São José dos Campos
 
 ​Projeto Integrador (API) do 1º Semestre de Logística da Fatec São José dos Campos, desenvolvido em parceria com o CADI e a Secretaria de Desenvolvimento Econômico de SJC.  
 
-SOBRE O PROJETO 
+# SOBRE O PROJETO 
 
 O objetivo deste trabalho é analisar e organizar dados públicos sobre a economia regional de São José dos Campos, criando um painel interativo no Power BI. A solução permite visualizar a distribuição geográfica das empresas e o perfil dos setores produtivos (como aeroespacial, automotivo, químico e serviços), gerando informações para apoiar a tomada de decisões na gestão pública.
 
-PARTICIPANTES 
+# PARTICIPANTES 
 
 Equipe Alfa-Log
 
@@ -23,7 +23,7 @@ Equipe Alfa-Log
 •​Erick Garcez de Oliveira Pereira
 •​João Vítor Flórido de Souza
 
-FERRAMENTAS UTILIZADAS
+# FERRAMENTAS UTILIZADAS
 
 •​Python (Google Colab): Tratamento e organização das bases de dados.
 
@@ -37,7 +37,7 @@ GESTÃO DO PROJETO
 
 * [📄 Acesse aqui o Backlog do Produto](./BACKLOG.md)
 
-BANCOS DE DADOS TRATADOS
+# BANCOS DE DADOS TRATADOS
 
 Nesta etapa, apresentamos a base de dados utilizada como apoio para o desenvolvimento do projeto e realização da análises.
 <img width="1893" height="873" alt="image" src="https://github.com/user-attachments/assets/8ac16947-da9d-4f7b-b1ce-3e95a117b95d" />
