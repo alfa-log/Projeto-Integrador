@@ -7,7 +7,7 @@
 
 | Rank | Prioridade | User Story | Sprint |
 | :---: | :---: | :--- | :---: |
-| 1 | Alta | Como tomador de decisões de políticas públicas, eu quero extrair e filtrar os registros da base pública da RAIS referentes exclusivamente ao município de São José dos Campos utilizando VS CODE e EXEL, para trabalhar apenas com os dados locais relevantes do projeto. | 1 |
+| 1 | Alta | Como tomador de decisões de políticas públicas, eu quero extrair e filtrar os registros da base pública da RAIS referentes exclusivamente ao município de São José dos Campos utilizando VS CODE e EXCEL, para trabalhar apenas com os dados locais relevantes do projeto. | 1 |
 | 2 | Alta | Como tomador de decisões de políticas públicas, eu quero tratar os dados de CNAE e categorizar as empresas nos grandes grupos do ecossistema (Aeroespacial, Automotivo, Químico, TI, Logística e Serviços Especializados), para permitir a análise segmentada do perfil produtivo. | 1 |
 | 3 | Média | Como tomador de decisões de políticas públicas, eu quero criar e visionar o repositório público do projeto no GitHub, para garantir a rastreabilidade dos scripts de tratamento e organização da documentação técnica. | 1 |
 | 4 | Alta | Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC. | 2 |
