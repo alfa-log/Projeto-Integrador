@@ -5,7 +5,12 @@
 
 ## Sobre o Projeto
 
-O objetivo deste trabalho é analisar e organizar dados públicos sobre a economia regional de São José dos Campos, criando um painel interativo no Power BI. A solução permite visualizar a distribuição geográfica das empresas e o perfil dos setores produtivos (como aeroespacial, automotivo, químico e serviços), gerando informações para apoiar a tomada de decisões na gestão pública.
+A região de São José dos Campos possui um importante ecossistema econômico, com presença de empresas de diferentes setores industriais e de serviços. O projeto busca organizar e analisar essas informações de forma estruturada, permitindo uma melhor compreensão do perfil produtivo regional.
+Para isso, a equipe desenvolverá uma solução de análise e visualização de dados, utilizando bases públicas e institucionais para identificar e analisar os principais setores econômicos da região.
+
+## Objetivo Geral
+
+Desenvolver uma solução de análise e visualização de dados que permita identificar e organizar informações sobre os principais setores industriais e de serviços da região de São José dos Campos, utilizando bases de dados públicas e ferramentas digitais.
 
 ## Participantes
 
@@ -18,10 +23,30 @@ Equipe Alfa-Log
 ​Time de Desenvolvimento:
 
 •​André Santos de Almeida
+
 •​Ana Caroline Ferreira Silva
+
 •Arthur Ferreira Vertuli
+
 •​Erick Garcez de Oliveira Pereira
+
 •​João Vítor Flórido de Souza
+
+## Gestão do Projeto - Backlog
+
+* [📄 Acesse aqui o Backlog do Produto](./BACKLOG.md)
+
+## Bancos de Dados Tratados
+
+Nesta etapa, apresentamos a base de dados utilizada como apoio para o desenvolvimento do projeto e realização da análises.
+
+# Base Principal - Rais_SJC
+
+A base principal utilizada no projeto foi obtida a partir dos dados da RAIS (Relação Anual de Informações Sociais). Os dados foram tratados e filtrados para o município de São José dos Campos, formando a base utilizada como referência para as análises do projeto.
+
+<img width="1893" height="873" alt="image" src="https://github.com/user-attachments/assets/8ac16947-da9d-4f7b-b1ce-3e95a117b95d" />
+
+📁 "Acessar a base principal — RAIS_SJC.xlsx" (BASES/RAIS_SJC.xlsx)
 
 ## Ferramentas Utilizadas
 
@@ -33,12 +58,12 @@ Equipe Alfa-Log
 
 •Microsoft Office (Excel/Word/PowerPoint): Usado pela equipe no auxílio da organização, montagem de relatórios ou apresentações. 
 
-## Gestão do Projeto
+## Ferramentas Utilizadas
 
-* [📄 Acesse aqui o Backlog do Produto](./BACKLOG.md)
+•​Python (Google Colab): Tratamento e organização das bases de dados.
 
-## Bancos de Dados Tratados
+•​Power BI: Criação dos dashboards e visualização dos dados.
 
-Nesta etapa, apresentamos a base de dados utilizada como apoio para o desenvolvimento do projeto e realização da análises.
-<img width="1893" height="873" alt="image" src="https://github.com/user-attachments/assets/8ac16947-da9d-4f7b-b1ce-3e95a117b95d" />
+​•GitHub: Documentação, versionamento e gestão do projeto.
 
+•Microsoft Office (Excel/Word/PowerPoint): Usado pela equipe no auxílio da organização, montagem de relatórios ou apresentações. 
