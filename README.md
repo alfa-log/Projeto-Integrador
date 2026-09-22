@@ -1,4 +1,4 @@
-z# Projeto-Integrador
+## Projeto-Integrador
 ## Mapeamento do Ecossistema Industrial e de Serviços de São José dos Campos
 
 ​Projeto Integrador (API) do 1º Semestre de Logística da Fatec São José dos Campos, desenvolvido em parceria com o CADI e a Secretaria de Desenvolvimento Econômico de SJC.  
