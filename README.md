@@ -46,6 +46,8 @@ A base principal utilizada no projeto foi obtida a partir dos dados da RAIS (Rel
 
 <img width="1893" height="873" alt="image" src="https://github.com/user-attachments/assets/8ac16947-da9d-4f7b-b1ce-3e95a117b95d" />
 
+📁 [Acessar a base principal — RAIS_SJC.xlsx](https://github.com/alfa-log/Projeto-Integrador/blob/630ded774e94583f2721abb22d6fe8312e4b87c8/RAIS_SJC.xlsx)
+
 ### Bases setorizadas
 
 •Aeroespacial
