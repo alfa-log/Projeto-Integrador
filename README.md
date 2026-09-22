@@ -62,7 +62,7 @@ A base principal utilizada no projeto foi obtida a partir dos dados da RAIS (Rel
 
 •Serviços Especializados
 
-📁 [Bases setorizadas — Aeroespacial](https://github.com/alfa-log/Projeto-Integrador/tree/63cf4928985ac5b8e6ca0e55521639a422a6d7e6/BasesSetorizadas)
+📁 [Bases setorizadas](https://github.com/alfa-log/Projeto-Integrador/tree/63cf4928985ac5b8e6ca0e55521639a422a6d7e6/BasesSetorizadas)
 
 ## Documentação do Projeto
 
