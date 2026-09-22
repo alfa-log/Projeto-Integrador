@@ -40,13 +40,13 @@ Equipe Alfa-Log
 
 Nesta etapa, apresentamos a base de dados utilizada como apoio para o desenvolvimento do projeto e realização da análises.
 
-# Base Principal - Rais_SJC
+### Base Principal - Rais_SJC
 
 A base principal utilizada no projeto foi obtida a partir dos dados da RAIS (Relação Anual de Informações Sociais). Os dados foram tratados e filtrados para o município de São José dos Campos, formando a base utilizada como referência para as análises do projeto.
 
 <img width="1893" height="873" alt="image" src="https://github.com/user-attachments/assets/8ac16947-da9d-4f7b-b1ce-3e95a117b95d" />
 
-📁 "Acessar a base principal — RAIS_SJC.xlsx" (BASES/RAIS_SJC.xlsx)
+
 
 ## Ferramentas Utilizadas
 
