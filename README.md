@@ -62,6 +62,8 @@ A base principal utilizada no projeto foi obtida a partir dos dados da RAIS (Rel
 
 •Serviços Especializados
 
+📁 [Bases setorizadas — Aeroespacial]()
+
 ## Ferramentas Utilizadas
 
 •​Python (Google Colab): Tratamento e organização das bases de dados.
