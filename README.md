@@ -64,15 +64,15 @@ A base principal utilizada no projeto foi obtida a partir dos dados da RAIS (Rel
 
 📁 [Bases setorizadas — Aeroespacial](https://github.com/alfa-log/Projeto-Integrador/tree/63cf4928985ac5b8e6ca0e55521639a422a6d7e6/BasesSetorizadas)
 
-## Ferramentas Utilizadas
+## Documentação do Projeto
 
-•​Python (Google Colab): Tratamento e organização das bases de dados.
+Aqui estão disponíveis os documentos referentes ao desenvolvimento e ao tratamento dos dados utilizados no projeto.
 
-•​Power BI: Criação dos dashboards e visualização dos dados.
+# Relatório do tratamento e da limpeza dos dados
+Documento que apresenta as etapas realizadas para o tratamento, organização e análise inicial da base de dados utilizada no projeto.
 
-​•GitHub: Documentação, versionamento e gestão do projeto.
+📑 "Acessar o relatório" (LINK_DO_RELATÓRIO)
 
-•Microsoft Office (Excel/Word/PowerPoint): Usado pela equipe no auxílio da organização, montagem de relatórios ou apresentações. 
 
 ## Ferramentas Utilizadas
 
