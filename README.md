@@ -71,7 +71,7 @@ Aqui estão disponíveis os documentos referentes ao desenvolvimento e ao tratam
 # Relatório do tratamento e da limpeza dos dados
 Documento que apresenta as etapas realizadas para o tratamento, organização e análise inicial da base de dados utilizada no projeto.
 
-📑 "Acessar o relatório" (LINK_DO_RELATÓRIO)
+📑 "Acessar o relatório" (https://github.com/alfa-log/Projeto-Integrador/tree/53b66a3b9bd0fec7f8467791bb0a66e8083a0209/Documenta%C3%A7%C3%A3o)
 
 
 ## Ferramentas Utilizadas
