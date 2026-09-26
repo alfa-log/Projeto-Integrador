@@ -1,6 +1,6 @@
 # Aprendizado por Projeto Integrado (API) - Alfa Log
 Este repositório documenta o desenvolvimento do projeto Mapeamento do Ecossistema Industrial e de Serviços de São José dos Campos, realizado pela equipe Alfa Log como parte do Aprendizado por Projeto Integrado (API).
-O projeto atende à demanda apresentada pela Secretaria de Inovação e Desenvolvimento Econômico da Prefeitura de São José dos Campos, cliente do projeto.
+O projeto atende à demanda apresentada pela CADI e Secretaria de Inovação e Desenvolvimento Econômico da Prefeitura de São José dos Campos, cliente do projeto.
 
 Projeto baseado na metodologia ágil SCRUM, buscando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
@@ -8,7 +8,7 @@ Projeto baseado na metodologia ágil SCRUM, buscando desenvolver a Proatividade,
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#equipe)
 * [Backlog do Produto](#Product-Backlog)
-* [Competêntecias Desenvolvidas](#competências-desenvolvidas)
+* [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 # Sobre o Projeto (API)
@@ -19,7 +19,7 @@ O projeto é desenvolvido de forma colaborativa, seguindo a metodologia ágil Sc
 # Equipe
 |    função     | Nome                                  |                                                                                                                                                      Linkedin & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Bruna Gabriela Felício          |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://teams.cloud.microsoft/l/message/48:notes/1790453499112?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A36fa9080-5704-43e4-af06-a71c382d1c89%22%7D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/bruna082)              |
+| Product Owner |   Bruna Gabriela Felício          |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-felicio-841b64428?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/bruna082)              |
 | Scrum Master  | Diego Rodrigues Gonçavels |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
 | Team Member   | Ana Caroline Ferreira Silva              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-ferreira-silva-5233973a3?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anacarolineferreira07)        |
 |  Team Member  | André Santos de Almeida                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/andr%C3%A9-santos-de-almeida-16bb1b240) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Adresantos02)        |
@@ -28,6 +28,16 @@ O projeto é desenvolvido de forma colaborativa, seguindo a metodologia ágil Sc
 |  Team Member  | João Vitor Florido de Souza       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # Objetivo do Projeto
+O projeto tem como objetivo geral desenvolver uma solução de análise e visualização de dados voltada ao mapeamento dos principais setores industriais e de serviços de São José dos Campos.
+ 
+De forma específica, busca-se:
+ 
+- Levantar e consolidar dados públicos e institucionais referentes aos setores econômicos da região;
+- Estruturar essas informações de maneira organizada e padronizada, facilitando seu processamento;
+- Desenvolver dashboards e relatórios que permitam a visualização clara dos dados analisados;
+- Apoiar a compreensão do perfil produtivo.
+
+# Tecnologias Utilizadas
 
 
 ## Gestão do Projeto - Backlog
