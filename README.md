@@ -50,9 +50,7 @@ De forma específica, busca-se:
 - ChatGPT
 - Gemini
 
-
-
-## Gestão do Projeto - Backlog
+# Product Backlog
 
 * [📄 Acesse aqui o Backlog do Produto](./BACKLOG.md)
 
