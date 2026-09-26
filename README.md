@@ -69,6 +69,16 @@ De forma específica, busca-se:
 | 8 | Média | Como tomador de decisões de políticas públicas, eu quero ler um relatório técnico completo descrevendo as fontes públicas, metodologia de limpeza, análises e conclusões, para validar o rigor acadêmico do trabalho. | 3 |
 | 9 | Baixa | Como tomador de decisões de políticas públicas, eu quero acessar o repositório final totalmente organizado e documentado no GitHub, para conferir o projeto e replicar as análises se necessário. | 3 |
 
+# Registro das Sprints
+
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | 28/09/2026 | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 12/12/2026 | a fazer  | [MVP](#)  |
+
+
 
 ## Bancos de Dados Tratados
 
