@@ -16,20 +16,20 @@ A região de São José dos Campos constitui um importante ecossistema econômic
 Para isso, a equipe realizará o levantamento, a organização, o tratamento e a análise de dados provenientes de bases públicas e institucionais, contemplando diferentes setores econômicos da região.
 O projeto é desenvolvido de forma colaborativa, seguindo a metodologia ágil Scrum e as etapas estabelecidas ao longo das sprints. A partir dos dados tratados, serão realizadas análises e visualizações, incluindo dashboards, com o objetivo de facilitar a interpretação das informações e a apresentação dos resultados.
 
-# Objetivo do Projeto
-
-
 # Equipe
 |    função     | Nome                                  |                                                                                                                                                      Linkedin & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Bruna Gabriela Felício          |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+| Product Owner |   Bruna Gabriela Felício          |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://teams.cloud.microsoft/l/message/48:notes/1790453499112?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A36fa9080-5704-43e4-af06-a71c382d1c89%22%7D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/bruna082)              |
 | Scrum Master  | Diego Rodrigues Gonçavels |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
 | Team Member   | Ana Caroline Ferreira Silva              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-ferreira-silva-5233973a3?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anacarolineferreira07)        |
 |  Team Member  | André Santos de Almeida                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/andr%C3%A9-santos-de-almeida-16bb1b240) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Adresantos02)        |
 |  Team Member  | Arthur Ferreira Vertuli                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
 |  Team Member  | Erick Garcez de Oliveira Pereira       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/erickgarcez23-cloud)
 |  Team Member  | João Vitor Florido de Souza       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)
- 
+
+# Objetivo do Projeto
+
+
 ## Gestão do Projeto - Backlog
 
 * [📄 Acesse aqui o Backlog do Produto](./BACKLOG.md)
