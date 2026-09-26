@@ -1,4 +1,4 @@
-## Aprendizado por Projeto Integrado (API) - Alfa Log
+# Aprendizado por Projeto Integrado (API) - Alfa Log
 Este repositório documenta o desenvolvimento do projeto Mapeamento do Ecossistema Industrial e de Serviços de São José dos Campos, realizado pela equipe Alfa Log como parte do Aprendizado por Projeto Integrado (API).
 O projeto atende à demanda apresentada pela Secretaria de Inovação e Desenvolvimento Econômico da Prefeitura de São José dos Campos, cliente do projeto.
 
@@ -15,23 +15,21 @@ Projeto baseado na metodologia ágil SCRUM, buscando desenvolver a Proatividade,
 A região de São José dos Campos constitui um importante ecossistema econômico, caracterizado pela presença de empresas de diversos setores industriais e de serviços. Nesse contexto, o projeto tem como foco o mapeamento desse ecossistema, buscando organizar e analisar essas informações de forma estruturada, possibilitando uma melhor compreensão do perfil produtivo regional.
 Para isso, a equipe realizará o levantamento, a organização, o tratamento e a análise de dados provenientes de bases públicas e institucionais, contemplando diferentes setores econômicos da região.
 O projeto é desenvolvido de forma colaborativa, seguindo a metodologia ágil Scrum e as etapas estabelecidas ao longo das sprints. A partir dos dados tratados, serão realizadas análises e visualizações, incluindo dashboards, com o objetivo de facilitar a interpretação das informações e a apresentação dos resultados.
+
+# Objetivo do Projeto
+
+
 # Equipe
+|    função     | Nome                                  |                                                                                                                                                      Linkedin & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |   Bruna Gabriela Felício          |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+| Scrum Master  | Diego Rodrigues Gonçavels |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
+| Team Member   | Ana Caroline Ferreira Silva              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-ferreira-silva-5233973a3?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anacarolineferreira07)        |
+|  Team Member  | André Santos de Almeida                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/andr%C3%A9-santos-de-almeida-16bb1b240) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Adresantos02)        |
+|  Team Member  | Arthur Ferreira Vertuli                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
+|  Team Member  | Erick Garcez de Oliveira Pereira       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/erickgarcez23-cloud)
+|  Team Member  | João Vitor Florido de Souza       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)
  
-| Função | Nome | LinkedIn |
-|---|---|---|
-| Product Owner | Bruna Gabriela Felício | [LinkedIn](https://www.linkedin.com/in/) |
-| Scrum Master | Diego Ribeiro Gonçalves | [LinkedIn](https://www.linkedin.com/in/) |
-| Team Member | Ana Caroline Ferreira Silva | [LinkedIn](https://www.linkedin.com/in/) |
-| Team Member | André Santos de Almeida | [LinkedIn](https://www.linkedin.com/in/) |
-| Team Member | Arthur Ferreira Vertuli | [LinkedIn](https://www.linkedin.com/in/) |
-| Team Member | Erick Garcez de Oliveira Pereira | [LinkedIn](https://www.linkedin.com/in/) |
- 
-
-
-## Objetivo do Projeto
-
-Desenvolver uma solução de análise e visualização de dados que permita identificar e organizar informações sobre os principais setores industriais e de serviços da região de São José dos Campos, utilizando bases de dados públicas e ferramentas digitais.
-
 ## Gestão do Projeto - Backlog
 
 * [📄 Acesse aqui o Backlog do Produto](./BACKLOG.md)
