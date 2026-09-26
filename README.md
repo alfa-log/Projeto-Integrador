@@ -38,6 +38,18 @@ De forma específica, busca-se:
 - Apoiar a compreensão do perfil produtivo.
 
 # Tecnologias Utilizadas
+ 
+- Python
+- Google Colab
+- Power BI
+- GitHub
+- Microsoft Office (Excel, Word, PowerPoint)
+- VS Code
+ 
+## Ferramentas de Apoio
+- ChatGPT
+- Gemini
+
 
 
 ## Gestão do Projeto - Backlog
