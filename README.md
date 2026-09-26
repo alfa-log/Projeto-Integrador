@@ -1,22 +1,22 @@
 ## Aprendizado por Projeto Integrado (API) - Alfa Log
-Este repositório documenta o desenvolvimento do projeto "Mapeamento do Ecossistema Industrial e de Serviços de São José dos Campos", realizado pela equipe Alfa Log como parte do Aprendizado por Projeto Integrado (API).
-O projeto atende à demanda apresentada pela Secretaria de Inovação e Desenvolvimento Econômico (SIDE) da Prefeitura de São José dos Campos, cliente do projeto.
+Este repositório documenta o desenvolvimento do projeto Mapeamento do Ecossistema Industrial e de Serviços de São José dos Campos, realizado pela equipe Alfa Log como parte do Aprendizado por Projeto Integrado (API).
+O projeto atende à demanda apresentada pela Secretaria de Inovação e Desenvolvimento Econômico da Prefeitura de São José dos Campos, cliente do projeto.
 
-Projeto baseado na metodologia Ágil SCRUM, buscando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+Projeto baseado na metodologia ágil SCRUM, buscando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
-## Ìndice 
+# Ìndice 
 * [Objetivo do Projeto](#objetivo-do-projeto).
 * [Equipe](#equipe).
 * [Backlog do Produto](#Product-Backlog).
 * [Competêntecias Desenvolvidas](#competências-desenvolvidas).
 * [Registro das Sprints](#Registro-das-Sprints).
 
-## Sobre o Projeto
+# Sobre o Projeto (API)
+A região de São José dos Campos constitui um importante ecossistema econômico, caracterizado pela presença de empresas de diversos setores industriais e de serviços. Nesse contexto, o projeto tem como foco o mapeamento desse ecossistema, buscando organizar e analisar essas informações de forma estruturada, possibilitando uma melhor compreensão do perfil produtivo regional.
+Para isso, a equipe realizará o levantamento, a organização, o tratamento e a análise de dados provenientes de bases públicas e institucionais, contemplando diferentes setores econômicos da região.
+O projeto é desenvolvido de forma colaborativa, seguindo a metodologia ágil Scrum e as etapas estabelecidas ao longo das sprints. A partir dos dados tratados, serão realizadas análises e visualizações, incluindo dashboards, com o objetivo de facilitar a interpretação das informações e a apresentação dos resultados.
 
-A região de São José dos Campos possui um importante ecossistema econômico, com presença de empresas de diferentes setores industriais e de serviços. O projeto busca organizar e analisar essas informações de forma estruturada, permitindo uma melhor compreensão do perfil produtivo regional.
-Para isso, a equipe desenvolverá uma solução de análise e visualização de dados, utilizando bases públicas e institucionais para identificar e analisar os principais setores econômicos da região.
-
-## Objetivo Geral
+## Objetivo do Projeto
 
 Desenvolver uma solução de análise e visualização de dados que permita identificar e organizar informações sobre os principais setores industriais e de serviços da região de São José dos Campos, utilizando bases de dados públicas e ferramentas digitais.
 
