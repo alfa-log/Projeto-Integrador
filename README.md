@@ -51,7 +51,6 @@ De forma específica, busca-se:
 - Gemini
 
 # Product Backlog
-# 📋 Backlog do Produto - AlfaLog
 
 **Cliente:** Secretaria de Desenvolvimento Econômico de São José dos Campos  
 **Curso / Semestre:** 1º Semestre Logística (2026-1)  
