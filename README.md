@@ -1,7 +1,15 @@
-## Aprendizado por Projeto Integrado (API) - Template
-Template para os projetos de API, ensinado na utilização do repositório digital "Github".
+## Aprendizado por Projeto Integrado (API) - Alfa Log
+Este repositório documenta o desenvolvimento do projeto "Mapeamento do Ecossistema Industrial e de Serviços de São José dos Campos", realizado pela equipe Alfa Log como parte do Aprendizado por Projeto Integrado (API).
+O projeto atende à demanda apresentada pela Secretaria de Inovação e Desenvolvimento Econômico (SIDE) da Prefeitura de São José dos Campos, cliente do projeto.
 
-​Projeto Integrador (API) do 1º Semestre de Logística da Fatec São José dos Campos, desenvolvido em parceria com o CADI e a Secretaria de Desenvolvimento Econômico de SJC.  
+Projeto baseado na metodologia Ágil SCRUM, buscando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+ 
+​# Índice
+*[Objetivo do Projeto](#objetivo-do-projeto).
+*[Equipe](#equipe).
+*[Backlog do Produto](#Product-Backlog).
+*[Competêntecias Desenvolvidas](#competências-desenvolvidas).
+*[Registro das Sprints](#Registro-das-Sprints).
 
 ## Sobre o Projeto
 
