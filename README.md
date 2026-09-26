@@ -69,7 +69,6 @@ De forma específica, busca-se:
 | 8 | Média | Como tomador de decisões de políticas públicas, eu quero ler um relatório técnico completo descrevendo as fontes públicas, metodologia de limpeza, análises e conclusões, para validar o rigor acadêmico do trabalho. | 3 |
 | 9 | Baixa | Como tomador de decisões de políticas públicas, eu quero acessar o repositório final totalmente organizado e documentado no GitHub, para conferir o projeto e replicar as análises se necessário. | 3 |
 
-* [📄 Acesse aqui o Backlog do Produto](./BACKLOG.md)
 
 ## Bancos de Dados Tratados
 
@@ -108,12 +107,4 @@ Documento que apresenta as etapas realizadas para o tratamento, organização e 
 
 📑 [Acessar o relatório](https://github.com/alfa-log/Projeto-Integrador/blob/4784a1e143c88549f73d6c304d7c5c66bbef43d6/Documenta%C3%A7%C3%A3o/RELAT%C3%93RIO%20DA%20LIMPEZA%20DOS%20DADOS%20E%20SEPARA%C3%87%C3%83O%20DE%20CNAES..docx)
 
-## Ferramentas Utilizadas
-
-•​Python (Google Colab): Tratamento e organização das bases de dados.
-
-•​Power BI: Criação dos dashboards e visualização dos dados.
-
-​•GitHub: Documentação, versionamento e gestão do projeto.
-
-•Microsoft Office (Excel/Word/PowerPoint): Usado pela equipe no auxílio da organização, montagem de relatórios ou apresentações. 
+#
