@@ -5,11 +5,24 @@ O projeto atende à demanda apresentada pela Secretaria de Inovação e Desenvol
 Projeto baseado na metodologia ágil SCRUM, buscando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Ìndice 
-* [Objetivo do Projeto](#objetivo-do-projeto).
-* [Equipe](#equipe).
-* [Backlog do Produto](#Product-Backlog).
-* [Competêntecias Desenvolvidas](#competências-desenvolvidas).
-* [Registro das Sprints](#Registro-das-Sprints).
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Equipe](#equipe)
+* [Backlog do Produto](#Product-Backlog)
+* [Competêntecias Desenvolvidas](#competências-desenvolvidas)
+* [Registro das Sprints](#Registro-das-Sprints)
+
+# Equipe
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |   Bruna Gabriela Felício       |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+
+
+
+
+
+
+
+
 
 # Sobre o Projeto (API)
 A região de São José dos Campos constitui um importante ecossistema econômico, caracterizado pela presença de empresas de diversos setores industriais e de serviços. Nesse contexto, o projeto tem como foco o mapeamento desse ecossistema, buscando organizar e analisar essas informações de forma estruturada, possibilitando uma melhor compreensão do perfil produtivo regional.
