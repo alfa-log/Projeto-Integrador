@@ -3,13 +3,13 @@ Este repositório documenta o desenvolvimento do projeto "Mapeamento do Ecossist
 O projeto atende à demanda apresentada pela Secretaria de Inovação e Desenvolvimento Econômico (SIDE) da Prefeitura de São José dos Campos, cliente do projeto.
 
 Projeto baseado na metodologia Ágil SCRUM, buscando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
- 
-​# Índice
-*[Objetivo do Projeto](#objetivo-do-projeto).
-*[Equipe](#equipe).
-*[Backlog do Produto](#Product-Backlog).
-*[Competêntecias Desenvolvidas](#competências-desenvolvidas).
-*[Registro das Sprints](#Registro-das-Sprints).
+
+## Ìndice 
+* [Objetivo do Projeto](#objetivo-do-projeto).
+* [Equipe](#equipe).
+* [Backlog do Produto](#Product-Backlog).
+* [Competêntecias Desenvolvidas](#competências-desenvolvidas).
+* [Registro das Sprints](#Registro-das-Sprints).
 
 ## Sobre o Projeto
 
