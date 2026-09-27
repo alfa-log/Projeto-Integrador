@@ -72,8 +72,8 @@ De forma específica, busca-se:
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 28/09/2026 | concluído | [MVP](MVP/sp1.md)  |
-| 02                | 26/10/2026 | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | 23/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 12/12/2026 | a fazer  | [MVP](#)  |
+| 01                | 28/09/2026 | concluído | [MVP]()  |
+| 02                | 26/10/2026 | a fazer  | [MVP]()  |
+| 03                | 23/11/2026 | a fazer  | [MVP]()  |
+| Feira de Soluções | 12/12/2026 | a fazer  | [MVP]()  |
 
