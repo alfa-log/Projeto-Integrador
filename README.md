@@ -40,7 +40,6 @@ De forma específica, busca-se:
 # Tecnologias Utilizadas
  
 - Python
-- Google Colab
 - Power BI
 - GitHub
 - Microsoft Office (Excel, Word, PowerPoint)
@@ -48,7 +47,7 @@ De forma específica, busca-se:
  
 ## Ferramentas de Apoio
 - ChatGPT
-- Gemini
+- Gemini Pro
 
 # Product Backlog
 
