@@ -48,27 +48,27 @@ Uma base de dados limpa, extraída e segmenteda, que garante a rastreabilidade t
 
 ## 📊 Critérios de Aceitação
 - O MVP deve garantir que a base de dados extraída contenha registros correspondentes exclusivamente ao município de São José dos Campos.
-- O sistema deve registrar as empresas devidamente categorizadas nos grandes grupos de ecossistemas definidos no escopo(Aeroespacial, Automotivo, Químico, TI, Logística e Serviços Especializados).
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O sistema deve registrar as empresas devidamente categorizadas nos grandes grupos de ecossistemas definidos no escopo.
+- Métricas coletadas: Os scripts de tratamento e a documentação técnica devem estar estruturados e rastreáveis publicamente no repositório do GitHub.
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Geração e entrega de seis bases setoriais limpas, mapeando com sucesso 11.168 estabelecimentos e 45.929 vínculos empregatícios ativos dentro do recorte municipal.
+ 
+- Processamento bem-sucedido da base nacional bruta (de aproximadamente 3 GB), com a filtragem geográfica validada pela integridade das 47.339 linhas resultantes para São José dos Campos.
 
+- Rastreabilidade comprovada através da estruturação do repositório no GitHub, contendo os scripts de extração, limpeza e segmentação desenvolvidos ao longo da sprint.
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+- Construção de um painel analítico no Power BI com KPIs (total de empresas, volume de empregos e representatividade), utilizando as bases setorizadas definidas no escopo.
+ 
+- Comparação de indicadores de desempenho entre os setores aeroespacial, automotivo e de tecnologia.
+ 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
-
+- [Acesso à Pasta das Bases Tratadas e Setorizadas](COLE_O_LINK_DA_PASTA_AQUI)
+- [Repositório Público do Projeto no GitHub](COLE_O_LINK_DO_GITHUB_AQUI)
+- [Documentação Técnica da Sprint 1](COLE_O_LINK_DA_DOCUMENTACAO_AQUI)
