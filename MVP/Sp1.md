@@ -1,7 +1,7 @@
 # 📌 MVP - [Projeto API - Mapeamento do Ecossistemaa Produtivo de SJC]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+
 - Qual problema resolve?
   
 Atende à necessidade da Secretaria de Desenvolvimento Econômico de São José dos Campos na organização das informações produtivos do município, trabalhando inicialmente com as extração e o filtro dos dados locais relevantes.
@@ -15,7 +15,7 @@ Uma base de dados limpa, extraída e segmenteda, que garante a rastreabilidade t
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
+  
 - Funcionalidades principais incluídas: Extração e filtragem dos registros da RAIS para São José dos Campos utilizando VS CODE E EXCEL; tratamento dos códigos CNAE; categorização das empresas nos grupos Aeroespacial, Automotivo, Químico, TI, Logística e Serviços Especializados; e criação do repositório público no GitHub.
 
 - Limitações conhecidas: A análise nesta etapa inicial restringe-se exclusivamente à estruturação  dos dados e do mercado de trabalho formal. Não inclui interfaces gráficos, painéis ou mapas interativos.
