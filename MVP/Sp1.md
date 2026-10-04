@@ -69,6 +69,5 @@ Uma base de dados limpa, extraída e segmenteda, que garante a rastreabilidade t
 ---
 
 ## 📂 Anexos / Evidências
-- [Acesso à Pasta das Bases Tratadas e Setorizadas](COLE_O_LINK_DA_PASTA_AQUI)
-- [Repositório Público do Projeto no GitHub](COLE_O_LINK_DO_GITHUB_AQUI)
-- [Documentação Técnica da Sprint 1](COLE_O_LINK_DA_DOCUMENTACAO_AQUI)
+- [Acesso à Pasta das Bases Tratadas e Setorizadas](https://github.com/alfa-log/Projeto-Integrador/tree/66193559b14174572d94980a69d3a991baac27ff/BasesTratadas)
+- [Documentação Técnica da Sprint 1](https://github.com/alfa-log/Projeto-Integrador/tree/66193559b14174572d94980a69d3a991baac27ff/Documenta%C3%A7%C3%A3o)
