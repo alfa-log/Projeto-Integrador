@@ -89,6 +89,6 @@ Necessidades e dores atendidas: Avaliar o grau de inovação, a distribuição g
 - Expansão de funcionalidades para o próximo incremento (Sprint 3), como a inclusão do padrão completo dos painéis setoriais.
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
+ 
 - **[Acessar Backlog ](https://github.com/alfa-log/Projeto-Integrador/blob/2fe0875712ff332630d576ee908b37ef9d7f2fa6/Documenta%C3%A7%C3%A3o/BACKLOG.md)**
 - **[Capturas de Tela dos Dashboards (Pasta de Evidências)](https://github.com/alfa-log/Projeto-Integrador/tree/d3e50726f9e21238e2819e4730eaf4b07f00aa0f/Evidencias/Prints)**
