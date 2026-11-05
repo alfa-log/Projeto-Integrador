@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [Projeto API - Mapeamento do Ecossistemaa Produtivo de SJC]
 
 ## 🎯 Objetivo do MVP
 
@@ -18,17 +18,27 @@ Clareza, agilidade e inteligência de mercado. O cliente poderá responder a per
 
 ## 📝 Descrição da Solução
 
-- Funcionalidades principais incluídas:
+- Funcionalidades principais incluídas: Entrega da primeira versão do Dashboard no Power BI com KPIs e mapas, estruturada através da divisão setorial das bases de dados. Cada integrante ficou responsável por uma base específica para criar as visualizações (atualmente, estas bases precisam apenas de ser padronizadas para o modelo visual final).
 
-- Limitações conhecidas:
+-  Ana Caroline e João Vitor: Responsáveis pela base do setor de Logística.
+-  Arthur: Responsável pela base do setor Automotivo.
+-  André: Responsável pela base do setor de Química.
+-  Bruna: Responsável pela base do setor Aeroespacial.
+-  Diego: Responsável pela base do setor de Serviços Especializados.
+-  Erick: Responsável pela base do setor de TI (Tecnologia da Informação).
 
-- Escopo:
+- Limitações conhecidas:O painel reflete uma fotografia histórica da última consolidação da base RAIS, não apresentando contratações em tempo real.
+
+- Escopo: O projeto foca no funcionamento dos filtros e mapas unicamente destes 6 macro-setores essenciais para validar o cruzamento de dados.     
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Tomadores de decisão e gestores.
+Necessidades e dores atendidas: Visualizar de forma simples e rápida o total de empresas, empregos e o peso de cada setor para tomar decisões estratégicas sobre o ecossistema de SJC.
+
+- **Persona 2:** Secretaria Econômica de São José dos Campos e Investidores.
+Necessidades e dores atendidas: Avaliar o grau de inovação, a distribuição geográfica e a densidade produtiva para direcionar o desenvolvimento local e analisar o mercado antes de novos investimentos.
 
 ---
 
@@ -76,7 +86,7 @@ Clareza, agilidade e inteligência de mercado. O cliente poderá responder a per
 
 - Ajustes de usabilidade e padronização visual de todos os painéis.
 
-- Expansão de funcionalidades para o próximo incremento (Sprint 3), como a inclusão do padrão completo dos painéis setoriais feitos no power bi.
+- Expansão de funcionalidades para o próximo incremento (Sprint 3), como a inclusão do padrão completo dos painéis setoriais.
 
 ## 📂 Anexos / Evidências
 - Prints de tela  
