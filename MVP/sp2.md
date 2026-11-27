@@ -45,9 +45,9 @@ Necessidades e dores atendidas: Avaliar o grau de inovação, a distribuição g
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC.      | Alta       | 5 pontos   |
-| US2 |    Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC.     | Alta      | 3 pontos   |
-| US3 |  Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC.      | Média      | 3 pontos   |   
+| US4 | Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC.      | Alta       | 5 pontos   |
+| US5 |    Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC.     | Alta      | 3 pontos   |
+| US6 |  Como tomador de decisões de políticas públicas, eu quero visualizar um painel no Power BI com KPIs de total de empresas, volume de empregos e representatividade de cada setor, para compreender o peso econômico do ecossistema de SJC.      | Média      | 3 pontos   |   
 
 
 ---
