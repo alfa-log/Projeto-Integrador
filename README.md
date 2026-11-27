@@ -74,6 +74,6 @@ De forma específica, busca-se:
 |-------------------|------------|----------|-----------|
 | 01                | 28/09/2026 | concluído | [MVP]()  |
 | 02                | 02/11/2026 | concluído  | [MVP]()  |
-| 03                | 23/11/2026 | a fazer  | [MVP]()  |
-| Feira de Soluções | 12/12/2026 | a fazer  | [MVP]()  |
+| 03                | 27/11/2026 | a fazer  | [MVP]()  |
+| Feira de Soluções | 03/12/2026 | a fazer  | [MVP]()  |
 
