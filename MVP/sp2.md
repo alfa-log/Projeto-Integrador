@@ -27,7 +27,7 @@ Clareza, agilidade e inteligência de mercado. O cliente poderá responder a per
 -  Diego: Responsável pela base do setor de Serviços Especializados.
 -  Erick: Responsável pela base do setor de TI (Tecnologia da Informação).
 
-- Limitações conhecidas:O painel reflete uma fotografia histórica da última consolidação da base RAIS, não apresentando contratações em tempo real.
+- Limitações conhecidas: O painel reflete uma fotografia histórica da última consolidação da base RAIS, não apresentando contratações em tempo real.
 
 - Escopo: O projeto foca no funcionamento dos filtros e mapas unicamente destes 6 macro-setores essenciais para validar o cruzamento de dados.     
 
