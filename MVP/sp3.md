@@ -45,9 +45,9 @@ Nesta etapa de fechamento (Sprint 3), o MVP consolida o dashboard interativo no 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US7 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US8 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 5 pontos   |
-| US9 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US7 | Como tomador de decisões de políticas públicas, quero navegar por uma interface intuitiva com layout limpo e padronizado no Power BI, para extrair insights rápidos e acionáveis sem ambiguidades.         | Média      | 5 pontos   |
+| US8 | Como tomador de decisões de políticas públicas, quero ler um relatório técnico completo descrevendo as fontes públicas, metodologia de limpeza, análises e conclusões, para validar o rigor acadêmico do trabalho.         | Média      | 5 pontos   |
+| US9 | Como tomador de decisões de políticas públicas, quero acessar o repositório final totalmente organizado e documentado no GitHub, para conferir o projeto e replicar as análises se necessário.         | Baixa      | 3 pontos   |
 
 
 ---
@@ -55,22 +55,20 @@ Nesta etapa de fechamento (Sprint 3), o MVP consolida o dashboard interativo no 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Extração e filtragem da RAIS para São José dos Campos (VS Code/Excel), tratamento de CNAE por setor e criação/versionamento do repositório público no GitHub                      | Concluído|
+| 02     | Painel no Power BI com KPIs de empresas, empregos e representatividade setorial, mapa interativo por regiões/bairros de SJC e comparativo entre Aeroespacial, Automotivo e TI.                          | Concluíndo |
+| 03     | Padronização final do layout/navegação no Power BI (US7), relatório técnico completo (US8) e organização/documentação final do repositório no GitHub (US9)                          | Concluíndo |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário navegue pelas páginas e visuais do Power BI com clareza, compare os indicadores dos setores produtivos de São José dos Campos e consulte o relatório técnico e os arquivos no GitHub.  
+- O sistema/documentação deve registrar as fontes públicas (RAIS), a metodologia de tratamento e categorização setorial, as análises obtidas e os arquivos versionados no repositório. 
+- Definição de Pronto (DoD): Arquivo .pbix salvo e atualizado sem erros visuais ou de relacionamento, relatório técnico revisado com fontes, metodologia e conclusões, e repositório no GitHub organizado com README.md e links ativos. 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
 
