@@ -1,16 +1,24 @@
 # 📌 MVP - [Projeto API - Mapeamento do Ecossistemaa Produtivo de SJC]
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
+## 🎯 Objetivo do MVP 
+
+Consolidar e disponibilizar a versão final do projeto integrador para a Secretaria de Desenvolvimento Econômico de São José dos Campos, reunindo a visualização interativa, a documentação metodológica e a organização técnica dos artefatos:
+
+- Qual problema resolve?
+Facilita a leitura consolidada dos dados públicos da RAIS de São José dos Campos e organiza os resultados em um ambiente visual claro, padronizado e tecnicamente documentado.
+
+- Qual hipótese será validada?
+A integração entre um dashboard padronizado no Power BI, um relatório técnico metodológico, um vídeo demonstrativo e um repositório organizado no GitHub atende às necessidades de consulta e análise do ecossistema produtivo municipal.
+  
 - Qual valor será entregue ao usuário final?  
+Uma visão clara e acionável do perfil produtivo de São José dos Campos nos setores mapeados (Logística, Aeroespacial, Automotivo, Químico, TI e Serviços Especializados), apoiada por documentação técnica e evidências visuais prontas para consulta e replicação.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
+Nesta etapa de fechamento (Sprint 3), o MVP consolida o dashboard interativo no Power BI, o relatório técnico completo, o vídeo demonstrativo e a documentação final no GitHub, mantendo espaço estruturado para complementar os artefatos finais assim que concluídos:
+
+- Funcionalidades principais incluídas 
 - Limitações conhecidas  
 - Escopo reduzido (somente o essencial para validar a ideia)  
 
