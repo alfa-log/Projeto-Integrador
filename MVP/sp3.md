@@ -34,11 +34,11 @@ Nesta etapa de fechamento (Sprint 3), o MVP consolida o dashboard interativo no 
 - **Investidores e Analistas do Ecossistema Produtivo:** Precisam compreender a distribuição empresarial, o volume de empregos e o grau de concentração e inovação dos setores estratégicos do município com base em fontes oficiais.
 - **Equipe do Grupo AlfaLog:**
 
--Product Owner: Bruna Gabriela Felício (também responsável pelo setor Aeroespacial)
+- Product Owner: Bruna Gabriela Felício (também responsável pelo setor Aeroespacial)
 
--Scrum Master: Diego Ribeiro Gonçalves (também responsável por Serviços Especializados)
+- Scrum Master: Diego Ribeiro Gonçalves (também responsável por Serviços Especializados)
 
--Frentes e Setores: Logística (Ana Caroline Ferreira Silva e João Vítor Florido de Souza), Automotivo (Arthur Ferreira Vertuli), Químico (André Santos de Almeida) e TI (Erick Garcez de Oliveira Pereira)
+- Frentes e Setores: Logística (Ana Caroline Ferreira Silva e João Vítor Florido de Souza), Automotivo (Arthur Ferreira Vertuli), Químico (André Santos de Almeida) e TI (Erick Garcez de Oliveira Pereira)
 
 ---
 
@@ -62,20 +62,32 @@ Nesta etapa de fechamento (Sprint 3), o MVP consolida o dashboard interativo no 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário navegue pelas páginas e visuais do Power BI com clareza, compare os indicadores dos setores produtivos de São José dos Campos e consulte o relatório técnico e os arquivos no GitHub.  
-- O sistema/documentação deve registrar as fontes públicas (RAIS), a metodologia de tratamento e categorização setorial, as análises obtidas e os arquivos versionados no repositório. 
+- O MVP deve permitir que o usuário navegue pelas páginas e visuais do Power BI com clareza, compare os indicadores dos setores produtivos de São José dos Campos e consulte o relatório técnico e os arquivos no GitHub.
+  
+- O sistema/documentação deve registrar as fontes públicas (RAIS), a metodologia de tratamento e categorização setorial, as análises obtidas e os arquivos versionados no repositório.
+  
 - Definição de Pronto (DoD): Arquivo .pbix salvo e atualizado sem erros visuais ou de relacionamento, relatório técnico revisado com fontes, metodologia e conclusões, e repositório no GitHub organizado com README.md e links ativos. 
 
 ---
 
 ## 📈 Métricas de Validação
 
+- ​Usuários / avaliadores que testaram o MVP: Quantidade de integrantes do Grupo AlfaLog, colegas e avaliadores que navegaram pelo painel no Power BI, revisaram o relatório técnico e conferiram o repositório no GitHub.
+  
+- ​Feedback qualitativo (positivo / negativo): Registro de pontos positivos (clareza visual, facilidade de navegação e utilidade dos dados de São José dos Campos) e pontos negativos ou ajustes solicitados (inconsistências de layout, trechos do relatório a complementar ou links pendentes).
+  
+-​ Indicadores de validação da entrega: 100% das US7, US8 e US9 conferidas e aprovadas, zero erros de relacionamento ou exibição no .pbix, relatório técnico completo revisado e todos os arquivos/links acessíveis no GitHub.
+
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Melhorias após feedback e revisão: Incorporar a versão final do relatório técnico assim que chegar e aplicar os ajustes apontados na revisão da equipe (alinhamentos, clareza textual e consistência das análises).
+  
+- ​Ajustes de usabilidade: Refinar a navegação, os títulos, os filtros e a disposição visual no Power BI para que a leitura dos indicadores de São José dos Campos seja rápida e sem ambiguidades.
+  
+- ​Fechamento e encaixes pendentes: Reunir e versionar os arquivos finais (.pbix, bases/scripts tratados, relatório, vídeo e evidências) no repositório do GitHub, atualizando o README.md com os links definitivos.
+  
+- ​Expansão para próximo incremento (pós-Feira de Soluções): Incorporar percepções e sugestões coletadas durante a Feira de Soluções, ampliar o histórico de anos da RAIS e cruzar com outros indicadores locais para evoluir a análise em etapas futuras. 
 
 ---
 
