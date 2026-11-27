@@ -21,15 +21,17 @@ Uma visão clara e acionável do perfil produtivo de São José dos Campos nos s
 ## 📝 Descrição da Solução
 Nesta etapa de fechamento (Sprint 3), o MVP consolida o dashboard interativo no Power BI, o relatório técnico completo, o vídeo demonstrativo e a documentação final no GitHub, mantendo espaço estruturado para complementar os artefatos finais assim que concluídos:
 
-- Funcionalidades principais incluídas 
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Funcionalidades principais incluídas: Painel no Power BI com layout limpo e padronizado, navegação intuitiva entre indicadores, vídeo demonstrativo do funcionamento da solução, relatório técnico de metodologia e análise e repositório público no GitHub.
+ 
+- Limitações conhecidas: Integração da versão final do relatório técnico, ajustes finos de padronização visual no Power BI e atualização final da documentação no repositório.
+
+- Escopo reduzido: Foco nos registros filtrados da base pública da RAIS referentes exclusivamente ao município de São José dos Campos, priorizando clareza visual, rigor metodológico e rastreabilidade dos dados tratados.  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Gestores e Tomadores de Decisão da Secretaria de Desenvolvimento Econômico de São José dos Campos:** Buscam indicadores claros, mapas, comparativos setoriais e visualizações sem ambiguidades para apoiar políticas públicas e análises do ambiente econômico local.  
+- **Investidores e Analistas do Ecossistema Produtivo:** Precisam compreender a distribuição empresarial, o volume de empregos e o grau de concentração e inovação dos setores estratégicos do município com base em fontes oficiais.
 
 ---
 
