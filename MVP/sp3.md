@@ -32,14 +32,23 @@ Nesta etapa de fechamento (Sprint 3), o MVP consolida o dashboard interativo no 
 ## 👥 Personas / Usuários-Alvo
 - **Gestores e Tomadores de Decisão da Secretaria de Desenvolvimento Econômico de São José dos Campos:** Buscam indicadores claros, mapas, comparativos setoriais e visualizações sem ambiguidades para apoiar políticas públicas e análises do ambiente econômico local.  
 - **Investidores e Analistas do Ecossistema Produtivo:** Precisam compreender a distribuição empresarial, o volume de empregos e o grau de concentração e inovação dos setores estratégicos do município com base em fontes oficiais.
+- **Equipe do Grupo AlfaLog:**
+
+-Product Owner: Bruna Gabriela Felício (também responsável pelo setor Aeroespacial)
+
+-Scrum Master: Diego Ribeiro Gonçalves (também responsável por Serviços Especializados)
+
+-Frentes e Setores: Logística (Ana Caroline Ferreira Silva e João Vítor Florido de Souza), Automotivo (Arthur Ferreira Vertuli), Químico (André Santos de Almeida) e TI (Erick Garcez de Oliveira Pereira)
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US7 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| US8 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 5 pontos   |
+| US9 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+
 
 ---
 
