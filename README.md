@@ -73,7 +73,7 @@ De forma específica, busca-se:
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 28/09/2026 | concluído | [MVP](https://github.com/alfa-log/Projeto-Integrador/blob/1b3ea88ff4a40f71b6ba65ce37cc66655926ba10/MVP/sp1.md)  |
-| 02                | 02/11/2026 | concluído  | [MVP]()  |
+| 02                | 02/11/2026 | concluído  | [MVP](https://github.com/alfa-log/Projeto-Integrador/blob/c00caaf883b932439c347c4f16563c1e50ec06aa/MVP/sp2.md)  |
 | 03                | 27/11/2026 | concluído | [MVP]()  |
 | Feira de Soluções | 03/12/2026 | a fazer  | [MVP]()  |
 
