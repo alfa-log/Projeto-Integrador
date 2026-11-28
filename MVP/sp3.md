@@ -92,7 +92,10 @@ Nesta etapa de fechamento (Sprint 3), o MVP consolida o dashboard interativo no 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+**Vídeo de Apresentação do Projeto:** [https://youtu.be/zO9zvyaS8ME?is=jB9pbXyXi2uHos-G]
 
+**Vídeo Demonstrativo (Power BI):** [Inserir link ou arquivo do vídeo demonstrativo do painel]
+
+**Relatório Técnico:** [Aguardando integração — inserir link ou arquivo do relatório completo]
+
+**Dashboard e Arquivos Power BI (`.pbix`):** [Inserir link do painel ou referência aos arquivos no repositório]
