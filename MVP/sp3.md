@@ -94,8 +94,6 @@ Nesta etapa de fechamento (Sprint 3), o MVP consolida o dashboard interativo no 
 ## 📂 Anexos / Evidências
 [Vídeo de Apresentação do Projeto](https://youtu.be/zO9zvyaS8ME?is=jB9pbXyXi2uHos-G)
 
-Vídeo Demonstrativo: [Inserir link ou arquivo do vídeo demonstrativo do painel]
-
-[Relatório Técnico](Aguardando integração — inserir link ou arquivo do relatório completo)
+[Relatório Técnico](https://github.com/alfa-log/Projeto-Integrador/blob/da81078a9ac8bfede34fa97f2a872ecc18b0e6bc/Docs/Relatorio%20_API.pdf)
 
 [Dashboard e Arquivos Power BI](https://app.powerbi.com/view?r=eyJrIjoiMThjNTYwOTYtNTAxNy00Njc2LTk5NWYtMzMxMTgwODU1YTY3IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
